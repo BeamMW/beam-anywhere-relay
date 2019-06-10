@@ -1,0 +1,8 @@
+
+*.pyc
+db.sqlite3
+*.cache
+db.sqlite3
+.idea/
+apple-app-site-association.json
+api_key.json
